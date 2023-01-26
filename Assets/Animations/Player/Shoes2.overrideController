@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shoes2
+  m_Controller: {fileID: 9100000, guid: 4f05e15444f473e42b72c49662eb9cf3, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 74cf06a7945ebc04fab889f8c0f5eaeb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 3a69d85df2a620d47946ba0ed3fd2b60, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6d194ee6d644aa84f98f6c6d6a2d33fa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aac464306b1979d4aaf14d59ae717026, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7be18792ef7596c45b6627fd6e1ddf6f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6009b2553f826aa4bb144ea34675fc9e, type: 2}
